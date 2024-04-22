@@ -1,8 +1,6 @@
-# Hello world, I'm Sumit 👋
+![Profile Banner](https://github.com/berasumit611/Sumit-Bera-Portfolio/assets/86337318/4a635ed8-aa27-4279-aad2-fe20abed2b9e)
 
-> I'm a self-taught passionate web developer from India.
-
-## About Me
+## 💫 About Me:
 
 Hello, and welcome to my GitHub profile! My name is Sumit Bera, and I'm currently a final year undergraduate student in Electrical Engineering.
 
@@ -12,32 +10,45 @@ In addition to my academic pursuits, I'm also an aspiring front-end developer, a
 
 [Connect with me on LinkedIn!](https://www.linkedin.com/in/berasumit611)
 
+
+## ✨ Now:
+
+- Java Full stack development tranee  at **Jspider Kolkata**
+- Final Year undergraduate at **MCKV Institute of Engineering** pursuing Bachelors in **Electrical Engineering**
+- Building **Youtube Clone video streaming webapp**
+- Learning and exploring  **Java** and **JavaScript**
+- Looking for **Developer Roles** (preferably remote but open to all options)
+
+<br>
+
+## 🚀 Skills:
+| Domain      | Tech Stack                               |
+|-----------------|------------------------------------------------|
+| Frontend    |     HTML5, CSS3, JavaScript (ES6+), Bootstrap, Responsive web design |
+|Backend | PHP |
+|Database| Oracle SQL (11g), PostgreSql
+| Logical programming        | Core Java, Object-Oriented Programming System conceps, JavaScript (ES6+), C language, C++|
+| SQL             | Database Management, SQL Querying              |
+|Software development lifecycle (SDLC)|Waterfall model, Spiral model, V&V model, Prototype model|
+|**Development tools**|Git, GitHub, Netlify|
+
+
+## 👨‍💻 GitHub Stats:
+
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=berasumit611&theme=dark&hide_border=false" alt="GitHub Streak"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berasumit611&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"></td>
+  </tr>
+</table>
+
 ---
 
-## Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=berasumit611&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berasumit611&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-
+Thanks for visiting 🤍
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
