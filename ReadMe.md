@@ -8,7 +8,7 @@ My programming skills include C, C++, and JavaScript, and I'm constantly learnin
 
 In addition to my academic pursuits, I'm also an aspiring front-end developer, and I'm actively seeking opportunities to apply my skills in real-world projects. I'm a hard-working and detail-oriented individual with excellent problem-solving skills, and I'm always looking for ways to challenge myself and push the boundaries of what's possible.
 
-[Connect with me on LinkedIn!](https://www.linkedin.com/in/berasumit611)
+> [Connect with me on LinkedIn!](https://www.linkedin.com/in/berasumit611)
 
 
 ## ✨ Now:
@@ -43,7 +43,7 @@ In addition to my academic pursuits, I'm also an aspiring front-end developer, a
   </tr>
 </table>
 
----
+
 
 Thanks for visiting 🤍
 
