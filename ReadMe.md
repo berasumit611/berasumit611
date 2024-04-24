@@ -2,16 +2,16 @@
 
 ## 💫 About Me:
 
-<p align="justify">Welcome to Sumit Bera's GitHub profile! Sumit is a final year undergraduate in Electrical Engineering with a passion for front-end web development. Proficient in Java, C, C++, and JavaScript, Sumit is constantly learning and exploring new technologies to enhance their skills. With a strong focus on problem-solving and attention to detail, Sumit is an aspiring front-end developer seeking opportunities to apply their expertise in real-world projects.</p>
+<p align="justify">Welcome to my GitHub profile! I am a final year undergraduate student in Electrical Engineering with a passion for full-stack web development. Proficient in Java, C, C++, and JavaScript, I am constantly learning and exploring new technologies to enhance my skills. With a strong focus on problem-solving and attention to detail,I am an aspiring  developer seeking opportunities to apply my expertise in real-world projects.</p>
 
 
 ## ✨ Now:
 
-- Java Full stack development tranee  at **Jspider Kolkata**
+- Java full-stack development tranee  at **Jspider Kolkata**
 - Final Year undergraduate at **MCKV Institute of Engineering** pursuing Bachelors in **Electrical Engineering**
-- Building **Youtube Clone video streaming webapp**
+- Building **Full-stack Youtube Clone video streaming web application**
 - Learning and exploring  **Java** and **JavaScript**
-- Looking for **Developer Roles** (preferably remote but open to all options)
+- Looking for **Entry level software engineering/development jobs** (open to all options)
 
 
 
@@ -44,8 +44,8 @@
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/berasumit611)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berasumit611)
-
->Thanks for visiting 🤍
+#
+Thanks for visiting 🤍
   
 
 
