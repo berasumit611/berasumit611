@@ -24,7 +24,7 @@
 | Logical programming        | Core Java, Object-Oriented Programming System conceps, JavaScript (ES6+), C language, C++|
 | SQL             | Database Management, SQL Querying              |
 |Software development lifecycle (SDLC)|Waterfall model, Spiral model, V&V model, Prototype model|
-|**Development tools**|Git, GitHub, Netlify|
+|**Development tools**|VS code, Git, GitHub, Netlify|
 
 
 ## 👨‍💻 GitHub Stats:
@@ -40,17 +40,16 @@
 
 
 
-Connect with me
+ ## 🌐 Socials:
+
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/berasumit611)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berasumit611)
+
+>Thanks for visiting 🤍
   
-      
-        <a href="https://linkedin.com/in/berasumit611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berasumit611" height="30" width="40" /></a>
-        <a href="https://www.hackerrank.com/berasumit611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="berasumit611" height="30" width="40" /></a>
-        <a href="https://auth.geeksforgeeks.org/user/berasumit611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="berasumit611" height="30" width="40" /></a>
-     
-  
-      <p align="left">Thanks for visiting 🤍</p>
- 
- 
+
+
+
     
   
 
