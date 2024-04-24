@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/berasumit611/Sumit-Bera-Portfolio/assets/86337318/4a635ed8-aa27-4279-aad2-fe20abed2b9e)
+![Profile Banner](https://github.com/berasumit611/berasumit611/assets/86337318/ccaf3c0f-5997-4f2c-8abc-9702ec53d118)
 
 ## 💫 About Me:
 
@@ -40,26 +40,20 @@
 
 
 
-<table style="table:{border:0;}">
-  <tr>
-    <td>
-      <p align="left">Connect with me</p>
-    </td>
-    <td>
-      <p align="left">
+Connect with me
+  
+      
         <a href="https://linkedin.com/in/berasumit611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berasumit611" height="30" width="40" /></a>
         <a href="https://www.hackerrank.com/berasumit611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="berasumit611" height="30" width="40" /></a>
         <a href="https://auth.geeksforgeeks.org/user/berasumit611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="berasumit611" height="30" width="40" /></a>
-      </p>
-    </td>
-    <td >
+     
+  
       <p align="left">Thanks for visiting 🤍</p>
-    </td>
-  </tr>
+ 
  
     
   
-</table>
+
 
 
 
