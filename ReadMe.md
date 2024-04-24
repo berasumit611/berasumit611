@@ -28,7 +28,6 @@
 
 
 ## 👨‍💻 GitHub Stats:
-
 <table>
   <tr>
     <td><a href="https://git.io/streak-stats">
