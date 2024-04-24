@@ -40,7 +40,7 @@
 
 
 
-<table style="td:{border:none;}">
+<table style="table:{border:0;}">
   <tr>
     <td>
       <p align="left">Connect with me</p>
