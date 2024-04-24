@@ -37,17 +37,10 @@
   </tr>
 </table>
 
-<style>
-    #follow{
-        border-collapse: collapse;
-    }
-    #follow td {
-        border: none;
-    }
-</style>
 
 
-<table id ="follow">
+
+<table style="td:{border:none;}">
   <tr>
     <td>
       <p align="left">Connect with me</p>
