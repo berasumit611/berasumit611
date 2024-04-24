@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-<p align="justify">Welcome to my GitHub profile! I am a final year undergraduate student in Electrical Engineering with a passion for full-stack web development. Proficient in Java, C, C++, and JavaScript, I am constantly learning and exploring new technologies to enhance my skills. With a strong focus on problem-solving and attention to detail,I am an aspiring  developer seeking opportunities to apply my expertise in real-world projects.</p>
+<p align="justify">Welcome to my GitHub profile! I am a final year undergraduate student in Electrical Engineering with a passion for full-stack web development. Proficient in Java, C, C++, and JavaScript, I am constantly learning and exploring new technologies to enhance my skills. With a strong focus on problem-solving and attention to detail, I am an aspiring  developer seeking opportunities to apply my expertise in real-world projects.</p>
 
 
 ## ✨ Now:
