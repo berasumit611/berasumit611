@@ -31,8 +31,9 @@
 
 <table>
   <tr>
-    <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=berasumit611&theme=dark&hide_border=false" alt="GitHub Streak"></td>
+    <td><a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=berasumit611&theme=dark" alt="GitHub Streak">
+</a></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berasumit611&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"></td>
   </tr>
 </table>
@@ -46,6 +47,8 @@
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berasumit611)
 #
 Thanks for visiting 🤍
+
+
   
 
 
