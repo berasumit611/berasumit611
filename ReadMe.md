@@ -28,14 +28,16 @@
 
 
 ## 👨‍💻 GitHub Stats:
-<table>
+<!-- <table>
   <tr>
     <td><a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=berasumit611&theme=dark" alt="GitHub Streak">
 </a></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berasumit611&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"></td>
   </tr>
-</table>
+</table> -->
+![berasumit611's Streak](https://github-readme-streak-stats.herokuapp.com/?user=berasumit611&theme=dark&hide_border=true)
+  ![berasumit611's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berasumit611&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
@@ -48,7 +50,6 @@
 Thanks for visiting 🤍
 
 
-  
 
 
 
