@@ -31,8 +31,8 @@
 
 <table>
   <tr>
-    <td><a href="https://github-readme-streak-stats.herokuapp.com/?user=berasumit611&theme=dark&hide_border=true">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=berasumit611&theme=dark&hide_border=true" alt="berasumit611's Streak">
+    <td><a href="https://github-readme-streak-stats.herokuapp.com/?user=berasumit611&theme=dark&hide_border=false">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=berasumit611&theme=dark&hide_border=false" alt="berasumit611's Streak">
     </a></td>
     <td><a href="https://github.com/berasumit611">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berasumit611&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="berasumit611's Top Languages">
