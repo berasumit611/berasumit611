@@ -26,7 +26,7 @@
 |Software development lifecycle (SDLC)|Waterfall model, Spiral model, V&V model, Prototype model|
 |**Development tools**|VS code, Git, GitHub, Netlify|
 
-
+<!--
 ## 👨‍💻 GitHub Stats:
 
 <table>
@@ -38,8 +38,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berasumit611&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="berasumit611's Top Languages">
     </a></td>
   </tr>
-</table>
-
+</table> 
+-->
 
  ## 🌐 Socials:
 
