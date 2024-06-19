@@ -1,5 +1,6 @@
 <!--![Profile Banner](https://github.com/berasumit611/berasumit611/assets/86337318/ccaf3c0f-5997-4f2c-8abc-9702ec53d118)-->
 <!--![Profile Banner](https://github.com/berasumit611/berasumit611/assets/86337318/4e518b19-7e30-4a49-bcb2-a2b4eb45479f)-->
+![Sumit Bera (2)](https://github.com/berasumit611/berasumit611/assets/86337318/4c17207a-429d-43b8-8738-04cf762fa90d)
 ## 💫 About Me:
 
 <p align="justify">Welcome to my GitHub profile! I am an undergraduate student in Electrical Engineering with a passion for full-stack web development. Proficient in Java, I am constantly learning and exploring new technologies to enhance my skills. With a strong focus on problem-solving and attention to detail, I am an aspiring  developer seeking opportunities to apply my expertise to real-world projects.</p>
