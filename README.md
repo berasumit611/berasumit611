@@ -1,31 +1,31 @@
 <!--![Profile Banner](https://github.com/berasumit611/berasumit611/assets/86337318/ccaf3c0f-5997-4f2c-8abc-9702ec53d118)-->
 <!--![Profile Banner](https://github.com/berasumit611/berasumit611/assets/86337318/4e518b19-7e30-4a49-bcb2-a2b4eb45479f)-->
-![Sumit Bera (2)](https://github.com/berasumit611/berasumit611/assets/86337318/4c17207a-429d-43b8-8738-04cf762fa90d)
-## 💫 About Me:
+![Follow Me](https://github.com/user-attachments/assets/1351a4fe-d044-4a11-a960-306ccba57ccc)
+## 💫 About Me
 
-<p align="justify">Welcome to my GitHub profile! I am an undergraduate student in Electrical Engineering with a passion for full-stack web development. Proficient in Java, I am constantly learning and exploring new technologies to enhance my skills. With a strong focus on problem-solving and attention to detail, I am an aspiring  developer seeking opportunities to apply my expertise to real-world projects.</p>
-
-
-## ✨ Now:
-
-- Java full-stack development tranee  at **Jspider Kolkata**
-- Final Year undergraduate at **MCKV Institute of Engineering** pursuing Bachelors in **Electrical Engineering**
-- Building **Full-stack Youtube Clone video streaming web application**
-- Learning and exploring  **Java** and **JavaScript**
-- Looking for **Entry level software engineering/development jobs** (open to all options)
+<p align="justify">
+Welcome to my GitHub profile! I am an enthusiastic Software developer with a strong foundation in Java, SQL, and web technologies. I have recently undergone a Full Stack Java Development course and am eager to apply skills ina dynamic development environment.
+</p>
 
 
+## ✨ Now
 
-## 🚀 Skills:
-| Domain      | Tech Stack                               |
-|-----------------|------------------------------------------------|
-| Frontend    |     HTML5, CSS3, JavaScript (ES6+), Bootstrap, Responsive web design |
-|Backend | PHP |
-|Database| Oracle SQL (11g), PostgreSql
-| Logical programming        | Core Java, Object-Oriented Programming System conceps, JavaScript (ES6+)|
-| SQL             | Database Management, SQL Querying              |
-|Software development lifecycle (SDLC)|Waterfall model, Spiral model, V&V model, Prototype model, Agile Methodology|
-|**Development tools**|VS code, Git, GitHub, Netlify|
+- Java full-stack development trainee  at **Jspider Kolkata**
+- Graduate from **MCKV Institute of Engineering** pursuing Bachelors in **Electrical Engineering**
+- Building **Full-stack application using Java technologies**
+- Learning and exploring  **Java full-stack**
+- Looking for **Entry-level software engineering/development jobs** (open to all options)
+
+## 🎯 Skills
+
+- **Core Java**: OOPS Concepts, Exception Handling, Collection Framework
+- **Advanced Java**: JDBC, Hibernate
+- **SQL**: RDBMS Concepts, Query Writing, DDL, DML, TCL, DCL
+- **Web Technologies**: HTML, CSS, JavaScript, Responsive Design
+- **SDLC**: SDLC Models, Agile Methodology
+- **Development Tools**: GIT, GitHub, PostgreSQL, Maven, Eclipse, VS Code, Netlify
+
+
 
 <!--
 ## 👨‍💻 GitHub Stats:
