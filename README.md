@@ -5,10 +5,7 @@
 
 <p align="justify">
 Welcome to my GitHub profile! I am an enthusiastic Software developer with a strong foundation in Java, SQL, and web technologies. I have recently undergone a Full Stack Java Development course and am eager to apply skills in a dynamic development environment.
-  <br>
-You can view my resume [here](https://drive.google.com/file/d/1EcFTn1iGIZ7yvczPxdU9B1fNV3hja747/view?usp=sharing).
 </p>
-
 
 ## ✨ Now
 
