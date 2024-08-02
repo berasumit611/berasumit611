@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I am an enthusiastic Software developer with a str
 </table> 
 -->
 
- ## 🌐 Socials:
+ ## 🌐 Socials
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/berasumit611)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berasumit611)
