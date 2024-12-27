@@ -1,6 +1,6 @@
 <!--![Profile Banner](https://github.com/berasumit611/berasumit611/assets/86337318/ccaf3c0f-5997-4f2c-8abc-9702ec53d118)-->
 <!--![Profile Banner](https://github.com/berasumit611/berasumit611/assets/86337318/4e518b19-7e30-4a49-bcb2-a2b4eb45479f)-->
-![Follow Me](https://github.com/user-attachments/assets/1351a4fe-d044-4a11-a960-306ccba57ccc)
+<!-- ![Follow Me](https://github.com/user-attachments/assets/1351a4fe-d044-4a11-a960-306ccba57ccc)
 ## 💫 About Me
 
 <p align="justify">
@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I am an enthusiastic Software developer with a str
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/berasumit611)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berasumit611)
 #
-Thanks for visiting 🤍
+<!--Thanks for visiting 🤍-->
 
 
 
