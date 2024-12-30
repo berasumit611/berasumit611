@@ -40,7 +40,42 @@ Welcome to my GitHub profile! I am an enthusiastic Software developer with a str
   </tr>
 </table> 
 -->
+# Hi there! 👋  
+I’m a **Software Development Engineer (SDE 1)** at **AIQuant Technologies**.  
+I specialize in crafting robust and scalable software solutions using a wide range of modern technologies.
 
+---
+
+## 🚀 **Technologies I Work With**  
+### Frontend:
+- **React.js**  
+- **Angular.js**  
+- **Vue.js**  
+- **Tailwind CSS**  
+
+### Backend:
+- **Node.js**  
+- **Express.js**  
+
+### Databases:
+- **MongoDB**  
+- **MySQL**  
+- **PostgreSQL**  
+
+### Core Programming:
+- **Core Java**  
+- **Spring Boot**  
+
+### Blockchain:
+- **Cardano Blockchain**  
+- **Smart Contracts**  
+- **Lucid.js**  
+- **Mesh.js**  
+
+### DevOps:
+- **Docker**  
+
+---
  ## 🌐 Socials
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/berasumit611)
